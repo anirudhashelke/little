@@ -142,3 +142,33 @@ main .a-product-content h6{
 main .a-product-a:hover{
     color: #FF4400 !important;
 }
+/* footer */
+.a-footer ul{
+    list-style: none;
+    padding: 0;
+}
+.a-footer h1 span:hover{
+color: #FF4400 !important;
+}
+.a-footer-a{
+    font-size: 16px;
+    color: #6c757d !important;
+    line-height: 3;
+    text-decoration: none;
+}
+.a-footer-1 ul{
+list-style: none;
+padding: 0;
+}
+.a-footer-1 ul li a{
+    text-decoration: none;
+      line-height: 2;
+    font-weight: 300;
+    color: #6c757d !important;
+}
+.a-footer-1 ul li a:hover{
+    color:#ffffff !important;
+}
+.a-footer h6 i:hover{
+ color: #ffffff !important;
+}
